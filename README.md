@@ -1,5 +1,5 @@
 # Loan-Assessment-in-R
 
-Summing up loan values within R by different categories and ending with a crosstab
+Summing up loan values within R by different categories and ending with a crosstab feature.
 
-I got the xlsx file from a company called RiskSpan during their interviews.
+I picked up this challenge while preparing for Data Analyst role interviews in 2018.
